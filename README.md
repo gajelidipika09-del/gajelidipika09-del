@@ -15,13 +15,25 @@
 ---
 
 ## 🚀 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,vscode,eclipse" />
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" /> SQL
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter"/>
-<img src="https://img.shields.io/badge/Turbo%20C++-blue?style=for-the-badge"/>
+---
+
+### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" /> VS Code &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=eclipse" /> Eclipse IDE
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" /> Jupyter Notebook &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Turbo%20C++-blue?style=for-the-badge" /> Turbo C++
 </p>
 
 ---
