@@ -60,8 +60,19 @@
 ---
 
 ## 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gajelidipika09-del&theme=tokyonight" />
+
+<p align="left">
+  <a href="https://www.linkedin.com/posts/dipika-gajeli-51a03a301_nptel-the-joy-of-computing-using-python-activity-7356342912009265154-SGtZ?utm_source=share&utm_medium=member_android&rcm=ACoAAE0RyWYBRQwjFHwUf8O0BajVDGXs4QnRbPU">
+    <img src="https://img.shields.io/badge/NPTEL-Python%20Elite%2061%25-blue?style=for-the-badge" />
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/posts/dipika-gajeli-51a03a301_im-happy-to-share-that-ive-obtained-a-new-activity-7317087476467003392-2WZs?utm_source=share&utm_medium=member_android&rcm=ACoAAE0RyWYBRQwjFHwUf8O0BajVDGXs4QnRbPU">
+    <img src="https://img.shields.io/badge/NPTEL-Java%20Completed-green?style=for-the-badge" />
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/posts/dipika-gajeli-51a03a301_internship-completion-certificate-activity-7367601279356895232-rcqQ?utm_source=share&utm_medium=member_android&rcm=ACoAAE0RyWYBRQwjFHwUf8O0BajVDGXs4QnRbPU">
+    <img src="https://img.shields.io/badge/Internship-Cognizant-orange?style=for-the-badge" />
+  </a>
 </p>
 
 ---
