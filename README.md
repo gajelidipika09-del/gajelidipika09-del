@@ -2,9 +2,8 @@
 <h3 align="center">💻 CSE Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Java+Learner;Problem+Solver;Future+Software+Engineer" />
+  💡 Passionate about Programming • 🚀 Building Solutions • 🌱 Always Learning
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
