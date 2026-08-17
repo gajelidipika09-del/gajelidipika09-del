@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dipika Gajeli 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Java+%26+Python+Programmer;Final-Year+CSE+Student;Open+to+Developer+Internships&font=Fira+Code&center=true&width=650&height=45&color=2E9EF7&vCenter=true&size=22&duration=3000&pause=800" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Java+%26+Python+Programmer;Final-Year+CSE+Student;Open+to+Developer+Internships&font=Fira+Code&center=true&width=650&height=45&color=2E9EF7&vCenter=true&size=22&duration=3000&pause=800" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -35,62 +35,59 @@
 
 ## About Me
 
-I'm a fourth-year B.Tech Computer Science student (CGPA: 8.56) with hands-on experience building full-stack applications using the **MERN stack**, along with **Java, Python, and MySQL**. I enjoy building RESTful APIs, working with authentication/authorization flows, and turning ideas into working, database-driven systems.
+I'm a fourth-year B.Tech Computer Science student (CGPA: 8.56) with hands-on experience building applications using **Java, Python, and MySQL**. I enjoy building RESTful APIs, working with authentication/authorization flows, and turning ideas into working, database-driven systems.
 
 - 🎓 B.Tech CSE, Shree Siddheshwar Women's College of Engineering (DBATU) — 2023 to 2026
-- 💻 Comfortable across the full stack: React.js, Node.js, Express.js, MongoDB on the JS side; Java, Python, and SQL on the programming/backend side
+- 💻 Comfortable with Java, Python, and SQL on the programming/backend side
 - 🛡️ Interested in building systems with proper authentication, role-based access, and secure file handling
 - 🧪 Completed a Python development internship at **Cognifyz Technologies**
-- 🎯 Looking for **MERN Stack / Java / Python Developer** internship or full-time opportunities
+- 🎯 Looking for **Java / Python / Full-Stack Developer** internship or full-time opportunities
 
 <br>
 
 ## Tech Stack
 
-<table>
+<table align="center">
 <tr>
 <td valign="top" width="50%">
 
-**Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
+<h4 align="center">Programming Languages</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,js" /></p>
 
 </td>
 <td valign="top" width="50%">
 
-**Web Technologies**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+<h4 align="center">Web Technologies</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" /></p>
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<h4 align="center">Database</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></p>
 
 </td>
 <td valign="top">
 
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,eclipse" />
+<h4 align="center">Tools</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=vscode,git,github,eclipse" /></p>
 
 </td>
 </tr>
 <tr>
 <td valign="top" colspan="2">
 
-**Other**
-
+<h4 align="center">Other</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Turbo%20C-blue?style=for-the-badge" />
+</p>
 
 </td>
 </tr>
@@ -99,22 +96,6 @@ I'm a fourth-year B.Tech Computer Science student (CGPA: 8.56) with hands-on exp
 <br>
 
 ## Projects
-
-### 🎓 College Placement Management System
-**A full-stack, multi-role placement portal built with the MERN stack**
-
-A platform to digitize the campus placement process end-to-end, with separate portals for students, TPO admins, and management.
-
-- Student Portal — registration/login, profile updates, resume uploads, job drive browsing, real-time application tracking
-- TPO Admin Portal — post job listings, review/approve/reject applications, schedule interview rounds, upload offer letters
-- Management & Super Admin Portals — analytics dashboards for placement statistics, user onboarding, system configuration
-- Built RESTful APIs with Node.js/Express.js, modeled data with MongoDB/Mongoose, implemented JWT-based authentication and role-based authorization, integrated Cloudinary for secure file storage
-
-**Tech used:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Cloudinary`
-
-🔗 [Repository](PASTE_REPO_LINK_HERE) &nbsp;|&nbsp; 🔗 [Live Demo](PASTE_DEMO_LINK_HERE_OR_REMOVE)
-
-<br>
 
 ### 🌾 Crop Advisory System
 **A recommendation system for farmers based on soil and weather conditions**
@@ -196,20 +177,41 @@ Check out my [pinned repositories](https://github.com/gajelidipika09-del) for ad
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajelidipika09-del&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<details>
+<summary><b>GitHub Trophies</b></summary>
 <br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gajelidipika09-del&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gajelidipika09-del/gajelidipika09-del/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+<p align="center">
+  <sub>Snake animation requires a one-time GitHub Actions setup — see note in placeholder list below.</sub>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181717,100:2E9EF7&height=3&width=100%" />
 
 ## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dipika-gajeli-51a03a301">LinkedIn</a> •
-  <a href="mailto:gajelidipika09@gmail.com">Email</a> •
-  <a href="PASTE_HACKERRANK_LINK_HERE">HackerRank</a> •
-  <a href="https://github.com/gajelidipika09-del">GitHub</a> •
-  <a href="PASTE_PORTFOLIO_LINK_HERE_OR_REMOVE">Portfolio</a>
+  <a href="https://www.linkedin.com/in/dipika-gajeli-51a03a301"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gajelidipika09@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/gajelidipika09"><img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://github.com/gajelidipika09-del"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="PASTE_PORTFOLIO_LINK_HERE_OR_REMOVE"><img src="https://img.shields.io/badge/Portfolio-Visit-2E9EF7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <br>
 
 <p align="center">
-  <sub>Open to MERN Stack, Java, and Python Developer roles — always happy to connect and collaborate.</sub>
+  <sub>Open to Full-Stack, Java, and Python Developer roles — always happy to connect and collaborate.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
 </p>
