@@ -58,18 +58,12 @@ I'm a fourth-year B.Tech Computer Science student (CGPA: 8.56) with hands-on exp
 <td valign="top" width="50%">
 
 <h4 align="center">Web Technologies</h4>
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js" /></p>
 
 </td>
 </tr>
 <tr>
-<td valign="top">
-
-<h4 align="center">Database</h4>
-<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></p>
-
-</td>
-<td valign="top">
+<td valign="top" colspan="2">
 
 <h4 align="center">Tools</h4>
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,git,github,eclipse" /></p>
@@ -162,7 +156,7 @@ Check out my [pinned repositories](https://github.com/gajelidipika09-del) for ad
 
 ## Currently Learning
 
-`Data Structures & Algorithms` `SQL` `Backend Development`
+`Data Structures & Algorithms` `MERN Stack` `Backend Development`
 
 <br>
 
