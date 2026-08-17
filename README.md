@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Dipika Gajeli 👋</h1>
-<h3 align="center">MERN Stack Developer | Java & Python Programmer | Final-Year CSE Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Java+%26+Python+Programmer;Final-Year+CSE+Student;Open+to+Developer+Internships&font=Fira+Code&center=true&width=650&height=45&color=2E9EF7&vCenter=true&size=22&duration=3000&pause=800" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Building full-stack web applications and database-driven systems • Seeking Developer Internship / Full-Time Roles
@@ -8,8 +11,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dipika-gajeli-51a03a301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gajelidipika09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="PASTE_HACKERRANK_LINK_HERE"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/gajelidipika09"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://github.com/gajelidipika09-del"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gajelidipika09-del&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -21,6 +28,8 @@
   <a href="#github-stats">GitHub Stats</a> •
   <a href="#lets-connect">Connect</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:181717&height=3&width=100%" />
 
 <br>
 
